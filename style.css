@@ -6,8 +6,13 @@ div{
 	color:#228B73;
 }
 
-.sdvig{
+/*.sdvig{
 	margin-left: 270px;
+}*/
+
+section {
+	width: 650px;
+	margin: 0 auto;
 }
 
 .sdvig inform{
